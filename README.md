@@ -1,1 +1,0 @@
-# Nomad_vanilajs2
